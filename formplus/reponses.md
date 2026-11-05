@@ -1,0 +1,1 @@
+Q1.5-La barre de navigation devient horizontale à partir des écrans larges (992 px).
